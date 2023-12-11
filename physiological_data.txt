@@ -1,0 +1,18 @@
+
+Random Physiological Data:
+Time: [15:04:52]
+Blood Volume Variation: 0.352214
+Body Temperature: 37.035981
+Blood Oxygen Saturation: 0.725303
+Blood Pressure: 104/71
+Pulse Transit Time: 0.550676
+Heartbeats Per Minute: 84
+
+Time: [15:05:52]
+Blood Volume Variation: 0.495926
+Body Temperature: 36.119755
+Blood Oxygen Saturation: 0.962554
+Blood Pressure: 98/63
+Pulse Transit Time: 0.611133
+Heartbeats Per Minute: 72
+

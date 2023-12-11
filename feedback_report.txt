@@ -1,0 +1,6 @@
+Abnormal Blood Volume Variation Detected: 0.35
+Low Blood Oxygen Saturation Detected: 0.73%
+Abnormal Pulse Transit Time Detected: 0.55 seconds
+Abnormal Blood Volume Variation Detected: 0.50
+Low Blood Oxygen Saturation Detected: 0.96%
+Abnormal Pulse Transit Time Detected: 0.61 seconds
